@@ -1,0 +1,20 @@
+{
+    "name": "express-microservice-controller",
+    "version": "1.0.0",
+    "description": "Simple and extensible REST interface to a datasource.",
+    "license": "MIT",
+    "author": {
+        "name": "Joel Mussman",
+        "email": "joelmussman@gmail.com",
+        "url": "http://askjoelit.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/jmussman/express-microservice-controller"
+    },
+    "private": false,
+    "main": "ExpressMicroserviceController.js",
+    "dependencies":{
+        "express": "^4.16.2"
+    }
+}
